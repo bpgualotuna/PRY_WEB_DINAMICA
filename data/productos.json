@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "nombre": "Gafas Aviador Classic",
+        "categoria": "Gafas de Sol",
+        "descripcion": "Estilo atemporal con protección UV400 completa.",
+        "precio": 189.99,
+        "stock": 25,
+        "imagen": "./public/vendor/template/assets/img/portfolio/1.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Reloj Cronógrafo Elite",
+        "categoria": "Relojes",
+        "descripcion": "Precisión suiza con caja de acero inoxidable.",
+        "precio": 899.99,
+        "stock": 12,
+        "imagen": "./public/vendor/template/assets/img/portfolio/2.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Billetera de Cuero",
+        "categoria": "Accesorios",
+        "descripcion": "Cuero italiano genuino con protección RFID.",
+        "precio": 129.99,
+        "stock": 45,
+        "imagen": "./public/vendor/template/assets/img/portfolio/3.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Gafas Wayfarer Sport",
+        "categoria": "Gafas de Sol",
+        "descripcion": "Diseño deportivo con lentes polarizadas.",
+        "precio": 159.99,
+        "stock": 30,
+        "imagen": "./public/vendor/template/assets/img/portfolio/4.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Reloj Automático Luxury",
+        "categoria": "Relojes",
+        "descripcion": "Movimiento mecánico visible, caja de oro rosa 18k.",
+        "precio": 2499.99,
+        "stock": 5,
+        "imagen": "./public/vendor/template/assets/img/portfolio/5.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Set de Gemelos Premium",
+        "categoria": "Accesorios",
+        "descripcion": "Acero inoxidable con baño de rodio.",
+        "precio": 79.99,
+        "stock": 50,
+        "imagen": "./public/vendor/template/assets/img/portfolio/6.jpg"
+    }
+]
